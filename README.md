@@ -28,7 +28,7 @@ No caso de polinômios, o modelo é <img src="https://render.githubusercontent.c
 
 No caso do modelo linear geral, o modelo é <img src="https://render.githubusercontent.com/render/math?math=\color{cyan} h_{\beta}(x) = \beta_1 \phi_1(x) %2B \beta_2 \phi_2(x) %2B \dots %2B \beta_p \phi_p(x)">, a matriz <img src="https://render.githubusercontent.com/render/math?math=\color{cyan}X"> é dada por
 
-<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7D%5Cdisplaystyle%20X%20%3D%20%5Cbegin%7Bbmatrix%7D%201%20%26%20x_1%20%26%20x_1%5E2%20%26%20%5Cdots%20%26%20x_1%5Ep%20%5C%5C%201%20%26%20x_2%20%26%20x_2%5E2%20%26%20%5Cdots%20%26%20x_2%5Ep%20%5C%5C%20%5Cvdots%20%26%20%5Cvdots%20%26%20%5Cvdots%20%26%20%26%20%5Cvdots%20%5C%5C%201%20%26%20x_n%20%26%20x_n%5E2%20%26%20%5Cdots%20%26%20x_n%5Ep%20%5Cend%7Bbmatrix%7D.">
+<img src="https://render.githubusercontent.com/render/math?math=%5Ccolor%7Bcyan%7DX%20%3D%20%5Cbegin%7Bbmatrix%7D%0A%5Cphi_1(x_1)%20%26%20%5Cphi_2(x_1)%20%26%20%5Cdots%20%26%20%5Cphi_p(x_1)%20%5C%5C%0A%5Cphi_1(x_2)%20%26%20%5Cphi_2(x_2)%20%26%20%5Cdots%20%26%20%5Cphi_p(x_2)%20%5C%5C%0A%5Cvdots%20%26%20%5Cvdots%20%26%20%26%20%5Cvdots%20%5C%5C%0A%5Cphi_1(x_n)%20%26%20%5Cphi_2(x_n)%20%26%20%5Cdots%20%26%20%5Cphi_p(x_n)%20%5C%5C%0A%5Cend%7Bbmatrix%7D.">
 
 ## Várias variáveis
 
@@ -42,7 +42,7 @@ A matriz correspondente será
 
 Simples assim!
 
-Ou seja, o modelo é simplesmente ir colocando as colunas que você que para o modelo.
+Ou seja, montar um modelo é simplesmente ir colocando as colunas que você quer.
 
 ## Exercício
 
